@@ -1,0 +1,2993 @@
+{
+  "intents": [
+    {
+      "intent": "adaptação",
+      "examples": [
+        {
+          "text": "adaptação alimentação"
+        },
+        {
+          "text": "adaptacao alimentacao gato"
+        },
+        {
+          "text": "Como fazer adaptação para ração vegana?"
+        },
+        {
+          "text": "como mudar a alimentação para vegana"
+        },
+        {
+          "text": "como mudar a comida"
+        },
+        {
+          "text": "mudanca de alimentacao"
+        },
+        {
+          "text": "troca de ração"
+        }
+      ],
+      "description": "como mudar a alimentação"
+    },
+    {
+      "intent": "alcool",
+      "examples": [
+        {
+          "text": "alcool gel"
+        },
+        {
+          "text": "alcool pet"
+        }
+      ],
+      "description": "alcool"
+    },
+    {
+      "intent": "alergia",
+      "examples": [
+        {
+          "text": "se der alergia"
+        },
+        {
+          "text": "tem alergia"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "anti_pulga_coleira",
+      "examples": [
+        {
+          "text": "coleira leshimaniose"
+        },
+        {
+          "text": "coleira pulga, carrapato"
+        },
+        {
+          "text": "controle pulga, carrapato"
+        },
+        {
+          "text": "e tem antipulgas"
+        },
+        {
+          "text": "insetos"
+        },
+        {
+          "text": "mosquito"
+        },
+        {
+          "text": "mosquitos transmissores da leishmaniose e outros insetos"
+        },
+        {
+          "text": "tem antipulgas"
+        },
+        {
+          "text": "tratamento leshimaniose"
+        }
+      ],
+      "description": "pulgas"
+    },
+    {
+      "intent": "areia_gato",
+      "examples": [
+        {
+          "text": "areia gato"
+        },
+        {
+          "text": "quero areia para gato"
+        },
+        {
+          "text": "tem areia para gato"
+        }
+      ],
+      "description": "areia gato"
+    },
+    {
+      "intent": "armazenamento",
+      "examples": [
+        {
+          "text": "como armazenar"
+        },
+        {
+          "text": "como guardar"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "atividade",
+      "examples": [
+        {
+          "text": "o que é a veg pet"
+        },
+        {
+          "text": "o que você faz"
+        },
+        {
+          "text": "o que voces vendem"
+        },
+        {
+          "text": "qual sua atividade"
+        },
+        {
+          "text": "Quem são vocês"
+        }
+      ],
+      "description": "o que a vegpet faz"
+    },
+    {
+      "intent": "banho_seco_gato",
+      "examples": [
+        {
+          "text": "banho gato"
+        },
+        {
+          "text": "banho seco gato"
+        }
+      ],
+      "description": "banho seco"
+    },
+    {
+      "intent": "beneficios",
+      "examples": [
+        {
+          "text": "beneficios nova alimentação"
+        },
+        {
+          "text": "beneficios vegetariana vegana"
+        },
+        {
+          "text": "Comida vegetariano vegano faz bem"
+        }
+      ],
+      "description": "o pq ração veg"
+    },
+    {
+      "intent": "cancelar",
+      "examples": [
+        {
+          "text": "cancelar"
+        },
+        {
+          "text": "chega cansei"
+        },
+        {
+          "text": "deixa para lá"
+        },
+        {
+          "text": "desencana"
+        },
+        {
+          "text": "não quero mais saber"
+        },
+        {
+          "text": "sair"
+        }
+      ],
+      "description": "cancelar dialogo"
+    },
+    {
+      "intent": "carnivoros",
+      "examples": [
+        {
+          "text": "Animais carnívoros podem comer ração vegana vegetariana"
+        },
+        {
+          "text": "cachorro gato come mato"
+        },
+        {
+          "text": "cachorro pode comer comida vegana"
+        },
+        {
+          "text": "Como saber se é seguro dar para o meu cachorro?"
+        },
+        {
+          "text": "dog ou cat pode comer grama"
+        }
+      ],
+      "description": "alimentação de animais carnivoros"
+    },
+    {
+      "intent": "cata_caca",
+      "examples": [
+        {
+          "text": "cata caca"
+        },
+        {
+          "text": "cocô"
+        },
+        {
+          "text": "saquinho coco"
+        }
+      ],
+      "description": "saquinho"
+    },
+    {
+      "intent": "comida_gato",
+      "examples": [
+        {
+          "text": "comida gatos"
+        },
+        {
+          "text": "comida para gato tem"
+        },
+        {
+          "text": "gostaria de saber sobre ração para gatos"
+        },
+        {
+          "text": "quero saber sobre comida para gato"
+        },
+        {
+          "text": "racao gato"
+        },
+        {
+          "text": "ração para gatos"
+        },
+        {
+          "text": "rações para gato"
+        }
+      ],
+      "description": "racao gato"
+    },
+    {
+      "intent": "comida_umida_gato",
+      "examples": [
+        {
+          "text": "comida pastosa para gato"
+        },
+        {
+          "text": "comida úmida para gato"
+        },
+        {
+          "text": "comida úmida para gatos"
+        },
+        {
+          "text": "tem saché para gatos"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "composição",
+      "examples": [
+        {
+          "text": "A ração tem corante?"
+        },
+        {
+          "text": "como é composta a ração"
+        },
+        {
+          "text": "composição da ração"
+        },
+        {
+          "text": "me explique a composição da comida"
+        },
+        {
+          "text": "Qualquer uma.... gostaria de saber se tem corante?"
+        },
+        {
+          "text": "tem corante"
+        }
+      ],
+      "description": "composição racão"
+    },
+    {
+      "intent": "comprar",
+      "examples": [
+        {
+          "text": "adquirir"
+        },
+        {
+          "text": "comprar"
+        },
+        {
+          "text": "Onde comprar"
+        },
+        {
+          "text": "onde comprar esta racao"
+        },
+        {
+          "text": "onde encontro seus produtos"
+        },
+        {
+          "text": "onde posso comprar"
+        },
+        {
+          "text": "Onde posso comprar os produtos?"
+        },
+        {
+          "text": "Qual é a loja mais próxima ao meu endereço?"
+        },
+        {
+          "text": "tem loja online"
+        },
+        {
+          "text": "vende na cobasi"
+        },
+        {
+          "text": "vende online"
+        },
+        {
+          "text": "vende petlove"
+        },
+        {
+          "text": "vende petz"
+        }
+      ],
+      "description": "onde encontrar os produtos"
+    },
+    {
+      "intent": "contato",
+      "examples": [
+        {
+          "text": "Alguém poderia me ligar?"
+        },
+        {
+          "text": "como falar com vcs"
+        },
+        {
+          "text": "Com quem posso tirar uma dúvida?"
+        },
+        {
+          "text": "contato"
+        },
+        {
+          "text": "email"
+        },
+        {
+          "text": "fale conosco"
+        },
+        {
+          "text": "numero"
+        },
+        {
+          "text": "Qual o endereço de vocês?"
+        },
+        {
+          "text": "telefone"
+        },
+        {
+          "text": "Tem algum whatsapp?"
+        }
+      ],
+      "description": "telefone e email"
+    },
+    {
+      "intent": "contraindicacao",
+      "examples": [
+        {
+          "text": "é contraindicado"
+        },
+        {
+          "text": "tem contraindicação"
+        },
+        {
+          "text": "Tem contraindicação?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "custo",
+      "examples": [
+        {
+          "text": "é caro"
+        },
+        {
+          "text": "qual valor"
+        },
+        {
+          "text": "quanto custa"
+        },
+        {
+          "text": "Quanto custa o pacote da ração?"
+        }
+      ],
+      "description": "valores"
+    },
+    {
+      "intent": "despedida",
+      "examples": [
+        {
+          "text": "bye"
+        },
+        {
+          "text": "muito obrigada pela ateção"
+        },
+        {
+          "text": "obrigada me ajudou"
+        },
+        {
+          "text": "tchau"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "detalhe_racao",
+      "examples": [
+        {
+          "text": "como e a racao"
+        },
+        {
+          "text": "gato"
+        },
+        {
+          "text": "gostaria de saber sobre ração"
+        },
+        {
+          "text": "me explique"
+        },
+        {
+          "text": "me fale da"
+        },
+        {
+          "text": "me fale sobre ração para cachorro"
+        },
+        {
+          "text": "quais rações você tem"
+        },
+        {
+          "text": "qual vc tem"
+        },
+        {
+          "text": "que tipo de ração vocês tem"
+        },
+        {
+          "text": "ração para cachorro"
+        },
+        {
+          "text": "vegana"
+        },
+        {
+          "text": "vegetariana"
+        }
+      ],
+      "description": "pedido vitor entidade"
+    },
+    {
+      "intent": "devolucao",
+      "examples": [
+        {
+          "text": "como devolver"
+        },
+        {
+          "text": "Como funciona a política de devolução?"
+        },
+        {
+          "text": "não gostou"
+        },
+        {
+          "text": "não teve interesse"
+        },
+        {
+          "text": "politica de devolucao"
+        },
+        {
+          "text": "Se não gostar, posso devolver o produto?"
+        },
+        {
+          "text": "veio com defeito"
+        }
+      ],
+      "description": "devolução ou não gostou"
+    },
+    {
+      "intent": "diferença_brichog_fri",
+      "examples": [
+        {
+          "text": "Qual a diferença entre fridog e bicho green"
+        },
+        {
+          "text": "Qual a diferença principal entre fridog e bicho green"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "entregas",
+      "examples": [
+        {
+          "text": "distribuem na minha cidade"
+        },
+        {
+          "text": "entrega em todo brasil"
+        },
+        {
+          "text": "fornecem em todo brasil"
+        },
+        {
+          "text": "fornecem na minha cidade"
+        },
+        {
+          "text": "na minha cidade entrega"
+        },
+        {
+          "text": "onde vcs entregam"
+        },
+        {
+          "text": "país"
+        },
+        {
+          "text": "qual a sua distribuição"
+        },
+        {
+          "text": "Vocês fazem entrega?"
+        }
+      ],
+      "description": "onde vc pode receber o produto"
+    },
+    {
+      "intent": "estudos",
+      "examples": [
+        {
+          "text": "Existem estudos sobre alimentação vegana para animais?"
+        },
+        {
+          "text": "tem estudos"
+        },
+        {
+          "text": "vegana faz bem tem estudos"
+        },
+        {
+          "text": "veg estudos"
+        }
+      ],
+      "description": "provas que funciona"
+    },
+    {
+      "intent": "facebook",
+      "examples": [
+        {
+          "text": "facebook"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "filhote",
+      "examples": [
+        {
+          "text": "filhotes come"
+        },
+        {
+          "text": "filhotes podem comer"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "grao",
+      "examples": [
+        {
+          "text": "grao"
+        },
+        {
+          "text": "meu cachorro é grande pode comer"
+        },
+        {
+          "text": "tamanho grao"
+        },
+        {
+          "text": "tamanho racao"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "idoso",
+      "examples": [
+        {
+          "text": "cao idoso pode"
+        },
+        {
+          "text": "dog idoso"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "informar_detalhes_rastreamento",
+      "examples": [
+        {
+          "text": "cade"
+        },
+        {
+          "text": "cade meu pedido"
+        },
+        {
+          "text": "codigo"
+        },
+        {
+          "text": "gostaria de rastrear um pedido"
+        },
+        {
+          "text": "kd a compra"
+        },
+        {
+          "text": "kd meu pedido"
+        },
+        {
+          "text": "onde esta meu pedido"
+        },
+        {
+          "text": "onde esta o pedido"
+        },
+        {
+          "text": "onde tá"
+        },
+        {
+          "text": "QF461529322BR"
+        },
+        {
+          "text": "quando vai chegar"
+        },
+        {
+          "text": "ratrear"
+        },
+        {
+          "text": "ta onde"
+        }
+      ],
+      "description": "kd o pedido"
+    },
+    {
+      "intent": "instragran",
+      "examples": [
+        {
+          "text": "instagram"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "loja_física",
+      "examples": [
+        {
+          "text": "loja fisica"
+        },
+        {
+          "text": "posso comprar e retirar na loja"
+        },
+        {
+          "text": "tem loja física"
+        },
+        {
+          "text": "Tem loja física?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "mancha_seu_pelo",
+      "examples": [
+        {
+          "text": "macha pelo"
+        },
+        {
+          "text": "mancha seu pelo"
+        },
+        {
+          "text": "meu cão é Branco, e tem um tipo de ração no mercado q não mancha seu pelo. Pergunta: sua ração mancha o pelo?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "medicamentosa",
+      "examples": [
+        {
+          "text": "cachorro alergico"
+        },
+        {
+          "text": "dentes moles"
+        },
+        {
+          "text": "diabético, cardiaco, problema renal, urinário"
+        },
+        {
+          "text": "intolerância alimentar"
+        },
+        {
+          "text": "meu cachorro tem gastrite"
+        },
+        {
+          "text": "Meu cachorro tem gastrite, pode comer?"
+        },
+        {
+          "text": "meu gato tem alergia"
+        },
+        {
+          "text": "meugato tem dermatite"
+        },
+        {
+          "text": "problemas de digestão, articulação"
+        },
+        {
+          "text": "problemas hepaticos, anemico, digestivo, insuficiencia renal"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "organica",
+      "examples": [
+        {
+          "text": "ALL LOVE é uma ração vegetariana e orgânica, livre de transgenicos"
+        },
+        {
+          "text": "comida organica cachorro"
+        },
+        {
+          "text": "livre trans"
+        },
+        {
+          "text": "organica"
+        },
+        {
+          "text": "organico gato"
+        },
+        {
+          "text": "racao organica"
+        }
+      ],
+      "description": "alimentação racao organica"
+    },
+    {
+      "intent": "pagamento",
+      "examples": [
+        {
+          "text": "como posso pagar"
+        },
+        {
+          "text": "deposito ou pix"
+        },
+        {
+          "text": "formas de pagamento"
+        },
+        {
+          "text": "pagamento boleto"
+        },
+        {
+          "text": "pix"
+        },
+        {
+          "text": "Vocês aceitam cartão?"
+        }
+      ],
+      "description": "formas de pagamento"
+    },
+    {
+      "intent": "parceria",
+      "examples": [
+        {
+          "text": "como ser distribuidor"
+        },
+        {
+          "text": "como ser parceiro"
+        }
+      ],
+      "description": "como vender"
+    },
+    {
+      "intent": "petisco_biscoito",
+      "examples": [
+        {
+          "text": "bifinho"
+        },
+        {
+          "text": "biscoito organico"
+        },
+        {
+          "text": "ecobone"
+        },
+        {
+          "text": "oi quero petiscos"
+        },
+        {
+          "text": "osso ossinho petisco"
+        },
+        {
+          "text": "palito"
+        },
+        {
+          "text": "palitos petisco"
+        },
+        {
+          "text": "petisco organico"
+        },
+        {
+          "text": "vocês tem um petisco ou biscoito"
+        }
+      ],
+      "description": "petisco"
+    },
+    {
+      "intent": "petisco_gato",
+      "examples": [
+        {
+          "text": "bifinho para gatos"
+        },
+        {
+          "text": "tem biscoito para gatos"
+        },
+        {
+          "text": "tem mimo para gatos"
+        },
+        {
+          "text": "tem petisco para gato"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "portifolio",
+      "examples": [
+        {
+          "text": "acessorios passeio e ambiente"
+        },
+        {
+          "text": "brinquedo"
+        },
+        {
+          "text": "que produtos vcs vendem"
+        }
+      ],
+      "description": "o que temos no site"
+    },
+    {
+      "intent": "prazo_validade",
+      "examples": [
+        {
+          "text": "prazo validade"
+        },
+        {
+          "text": "Qual é o prazo de validade desta ração?"
+        },
+        {
+          "text": "qual o prazo de validade dos produtos"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "produto_limpeza",
+      "examples": [
+        {
+          "text": "limpeza multiuso"
+        },
+        {
+          "text": "produto de limpeza"
+        }
+      ],
+      "description": "limpeza"
+    },
+    {
+      "intent": "proteina_vegetal_animal",
+      "examples": [
+        {
+          "text": "cachorro come grama"
+        },
+        {
+          "text": "cachorro come proteina"
+        },
+        {
+          "text": "cachorro come vegetal"
+        },
+        {
+          "text": "gato sem carne"
+        },
+        {
+          "text": "gato sem proteina"
+        },
+        {
+          "text": "gato vegetal"
+        },
+        {
+          "text": "meu gato pode ser vegetariano"
+        }
+      ],
+      "description": "proteina_vegetal_animal"
+    },
+    {
+      "intent": "que_tipo_pet",
+      "examples": [
+        {
+          "text": "ferret furão texugo pode"
+        },
+        {
+          "text": "hamester"
+        },
+        {
+          "text": "meu rato come"
+        },
+        {
+          "text": "outros bichos podem comer"
+        },
+        {
+          "text": "papagaio, calopcita"
+        },
+        {
+          "text": "passaro pode comer"
+        },
+        {
+          "text": "posso dar para meu coelho"
+        },
+        {
+          "text": "Tem ração para cavalo também?"
+        }
+      ],
+      "description": "outros bichos podem comer"
+    },
+    {
+      "intent": "sache_umida",
+      "examples": [
+        {
+          "text": "comida pastosa para cachorro"
+        },
+        {
+          "text": "tem comida umida"
+        },
+        {
+          "text": "Tem ração em lata, aquela mole?"
+        },
+        {
+          "text": "tem ração sache"
+        },
+        {
+          "text": "tem sache de comida"
+        }
+      ],
+      "description": "comida umida"
+    },
+    {
+      "intent": "saudacao",
+      "examples": [
+        {
+          "text": "boa noite"
+        },
+        {
+          "text": "boa tarde"
+        },
+        {
+          "text": "bom dia"
+        },
+        {
+          "text": "e ai"
+        },
+        {
+          "text": "falaaa"
+        },
+        {
+          "text": "fala ae"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hellow"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "não entendi"
+        },
+        {
+          "text": "oi"
+        },
+        {
+          "text": "oie"
+        },
+        {
+          "text": "oiee"
+        },
+        {
+          "text": "ola"
+        },
+        {
+          "text": "quem é você"
+        },
+        {
+          "text": "Tudo bem?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "shampoo_condicionador",
+      "examples": [
+        {
+          "text": "banho cachorro"
+        },
+        {
+          "text": "banho pets"
+        },
+        {
+          "text": "banho petz"
+        },
+        {
+          "text": "shampoo"
+        },
+        {
+          "text": "tem produto para banho"
+        },
+        {
+          "text": "tem shapoo, condicionador sabonete"
+        }
+      ],
+      "description": "banhos"
+    },
+    {
+      "intent": "suplemento_alimentar",
+      "examples": [
+        {
+          "text": "Se eu der essas rações, o cão precisa ainda de algum outro suplemento que elas não tem? Ele pode ter alguma deficiência nutricional?"
+        },
+        {
+          "text": "suplementar a alimentação"
+        },
+        {
+          "text": "suplemento para pets"
+        },
+        {
+          "text": "tem suplemento alimentar"
+        }
+      ],
+      "description": "suplemento"
+    },
+    {
+      "intent": "trangenicos",
+      "examples": [
+        {
+          "text": "agrotoxico e transgenicos"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tratamentos_medicacao",
+      "examples": [
+        {
+          "text": "quero comprar remedios"
+        },
+        {
+          "text": "remédios para gato, cachorro, dog"
+        },
+        {
+          "text": "vcs vendem medicação"
+        },
+        {
+          "text": "vocês tem homeopatia"
+        }
+      ],
+      "description": "medicação/homeopatia"
+    },
+    {
+      "intent": "youtube",
+      "examples": [
+        {
+          "text": "videos"
+        },
+        {
+          "text": "youtube"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "codigo_rastreamento",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "codigo",
+          "patterns": [
+            "^[a-zA-Z]{2}[0-9]{9}[a-zA-Z]{2}"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "detalhe_banho",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Antiqueda",
+          "synonyms": [
+            "antiqueda pelos",
+            "queda pelo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Neen",
+          "synonyms": [
+            "sabonete",
+            "shampoo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Normal",
+          "synonyms": [
+            "normais",
+            "pelo nomal",
+            "pelos brilhantes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "pelos brilhantes",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "petisco",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "biscoito organico",
+          "synonyms": [
+            "biscoito organico",
+            "petisco organico"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ecoBone",
+          "synonyms": [
+            "bone",
+            "ecobone",
+            "ossinho",
+            "osso"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "krocao",
+          "synonyms": [
+            "biscoitinho",
+            "biscoito",
+            "palito"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "snack bifinho",
+          "synonyms": [
+            "bifinho",
+            "snack"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "racao",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "All Love",
+          "synonyms": [
+            "organica",
+            "orgânica"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Bicho Green",
+          "synonyms": [
+            "bicho",
+            "green",
+            "vegana"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Bicho Green\" ",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cachorro All Love",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cachorro Bicho Gree",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Fri Dog",
+          "synonyms": [
+            "freedog",
+            "freegod",
+            "vegetariana"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Fridog",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://letsbot-api.herokuapp.com/rastreamento_watson",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oi como posso te ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {
+        "counter": 1
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu não entendi. Você pode tentar reformular a frase."
+              },
+              {
+                "text": "Você pode reformular sua afirmação? Eu não estou entendendo."
+              },
+              {
+                "text": "Eu não entendi o sentido."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_8_1622751634638",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Qual ração para cachorro você gostaria:  Vegana, Organica ou Vegetariana"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_5_1624183957254",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1624183957280",
+      "previous_sibling": "handler_9_1624183957280"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1624557860268",
+      "context": {
+        "codigo_rastreamento": "@codigo_rastreamento.literal"
+      },
+      "conditions": "@codigo_rastreamento.literal",
+      "event_name": "input",
+      "dialog_node": "handler_10_1624557860294"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ok, não vou mais perguntar"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1625147935615",
+      "next_step": {
+        "behavior": "skip_slot"
+      },
+      "conditions": "#cancelar",
+      "event_name": "generic",
+      "dialog_node": "handler_10_1625148825134",
+      "previous_sibling": "node_9_1625149400534"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Entendi que você ainda não achou o que deseja"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1625147935615",
+      "context": {
+        "counter": 0
+      },
+      "next_step": {
+        "behavior": "skip_slot"
+      },
+      "conditions": "$counter >2",
+      "event_name": "generic",
+      "dialog_node": "handler_1_1625148925491",
+      "previous_sibling": "handler_10_1625148825134"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "node_9_1625157543227",
+      "context": {
+        "counter": "<? $counter = $counter + 1 ?>"
+      },
+      "event_name": "generic",
+      "dialog_node": "handler_1_1625158011771",
+      "previous_sibling": "handler_4_1625157940025"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Entendi que ainda não consegui te ajudar "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1624557526599",
+      "next_step": {
+        "behavior": "skip_slot"
+      },
+      "conditions": "$counter > 2",
+      "event_name": "generic",
+      "dialog_node": "handler_2_1625135361454",
+      "previous_sibling": "handler_8_1625063229978"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "node_8_1624557526599",
+      "context": {
+        "counter": "<? $counter = $counter + 1 ?>"
+      },
+      "event_name": "generic",
+      "dialog_node": "handler_2_1625135454751",
+      "previous_sibling": "handler_2_1625135361454"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Qual Petisco você gostaria: EcoBone, Biscoitos ou Palitos, Bifinho, Organico"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_8_1625148165646",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1625148165665",
+      "previous_sibling": "handler_5_1625148165665"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Entendi que você ainda não achou que esta procurando"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1624134759570",
+      "context": {
+        "counter": 0
+      },
+      "next_step": {
+        "behavior": "skip_slot"
+      },
+      "conditions": "$counter > 2",
+      "event_name": "generic",
+      "dialog_node": "handler_3_1625081334900",
+      "previous_sibling": "handler_5_1625062725877"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "node_7_1625147935615",
+      "context": {
+        "counter": "<? $counter = $counter + 1 ?>"
+      },
+      "event_name": "generic",
+      "dialog_node": "handler_4_1625149027391",
+      "previous_sibling": "handler_1_1625148925491"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Qual Shampoo você gostaria: Neem; Antiqueda; Normal"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_5_1625157623031",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1625157623047",
+      "previous_sibling": "handler_9_1625157623047"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Me desculpa, se não consegui ajudar"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1625157543227",
+      "next_step": {
+        "behavior": "skip_slot"
+      },
+      "conditions": "#cancelar",
+      "event_name": "generic",
+      "dialog_node": "handler_4_1625157869319"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Entendi que você ainda não localizou o produto"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1625157543227",
+      "next_step": {
+        "behavior": "skip_slot"
+      },
+      "conditions": "$counter > 2",
+      "event_name": "generic",
+      "dialog_node": "handler_4_1625157940025",
+      "previous_sibling": "handler_4_1625157869319"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem, não vou mais perguntar  :)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1624134759570",
+      "next_step": {
+        "behavior": "skip_slot"
+      },
+      "conditions": "#cancelar",
+      "event_name": "generic",
+      "dialog_node": "handler_5_1625062725877"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1625148165646",
+      "context": {
+        "petisco": "@petisco"
+      },
+      "conditions": "@petisco",
+      "event_name": "input",
+      "dialog_node": "handler_5_1625148165665"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Qual o código por favor?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_8_1624557860268",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1624557860294",
+      "previous_sibling": "handler_10_1624557860294"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem, não vou mais perguntar   :)"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "node_8_1624557526599",
+      "conditions": "#cancelar",
+      "event_name": "generic",
+      "dialog_node": "handler_8_1625063229978"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1624183957254",
+      "context": {
+        "racao": "@racao"
+      },
+      "conditions": "@racao",
+      "event_name": "input",
+      "dialog_node": "handler_9_1624183957280"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "node_8_1624134759570",
+      "context": {
+        "counter": "<? $counter = $counter + 1 ?>"
+      },
+      "event_name": "generic",
+      "dialog_node": "handler_9_1625078039648",
+      "previous_sibling": "handler_3_1625081334900"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1625157623031",
+      "context": {
+        "detalhe_banho": "@detalhe_banho"
+      },
+      "conditions": "@detalhe_banho",
+      "event_name": "input",
+      "dialog_node": "handler_9_1625157623047"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O único produto que comercializamos, livre de transgênicos é a All Love que é um produto orgânico.\nHoje no Brasil, é extremamente difícil uma produção orgânica. \nAlém do mais, mesmo as rações padrões que dizem, não conter grãos, e serem livres de transgênicos em sua formulação, contém proteína animal, sendo que estes, são alimentados com transgênicos.\nOu seja, tirando a marca All Love orgânica entendemos que não existe ração livre de trans"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#trangenicos",
+      "dialog_node": "node_10_1622810206936",
+      "previous_sibling": "node_4_1622810512856"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossa ração não é medicamentosa,  mas se der uma olhada nos depoimentos de nosso site e videos, vai ver que ela ajudou em diversos casos de cachorros com alergias.\nConfira no endereço.\nhttps://www.youtube.com/watch?v=ZdKnFBg5kiw"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#alergia",
+      "dialog_node": "node_10_1622817619672",
+      "previous_sibling": "node_6_1623107991411"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para parcerias entre em contato:\nhttps://www.vegpet.com.br/revenda/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#parceria",
+      "dialog_node": "node_1_1622812767448",
+      "previous_sibling": "node_5_1622812858501"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "“Banho de Gato” é uma loção higienizadora.\nEla deixa a pelagem limpa, cheirosa e hidratada. \nEm sua composição tem partículas de plantas medicinais, que se misturam com o atrito da lambida ou do carinho liberando substâncias que ajudam a evitar a proliferação de fungos e bactérias, tendo efeito antisséptico sob a pele.\nApós aplicação não é necessário uso de água.  \nEste produto é direcionado aos felinos "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#banho_seco_gato",
+      "dialog_node": "node_1_1624047060714",
+      "previous_sibling": "node_8_1624048287221"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Este é nosso contato. \nCaso queira esclarecer alguma dúvida ou saber mais sobre algum produto.\nSinta-se a vontade para nos ligar ou mandar email.\n(11) 95329-1001 ou contato@vegpet.com.br"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#contato",
+      "dialog_node": "node_2_1622756299138",
+      "previous_sibling": "node_7_1622808404576"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A Bicho Green é completa e tem todos os nutrientes que o cão precisa, inclusive idoso. Pode oferecer a ração para ele sem problemas."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "A ração Bicho Green é completa e tem todos os nutrientes que seu pet mesmo sendo idoso necessita tanto na versão para gatos quanto para cães."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#idoso",
+      "dialog_node": "node_2_1623108214341",
+      "previous_sibling": "node_9_1623108303370"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1624134759570",
+      "context": {
+        "racao": null
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "Bem-vindo"
+      },
+      "conditions": "$racao != null",
+      "dialog_node": "node_2_1624195011747",
+      "previous_sibling": "response_3_1624220661931"
+    },
+    {
+      "type": "standard",
+      "parent": "node_8_1624557526599",
+      "context": {
+        "codigo_rastreamento": null
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "Bem-vindo"
+      },
+      "conditions": "$codigo_rastreamento != null",
+      "dialog_node": "node_2_1624562285546",
+      "previous_sibling": "response_9_1624563903487"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossas entregas são em todo território Brasileiro  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#entregas",
+      "dialog_node": "node_3_1622755111102",
+      "previous_sibling": "node_2_1622756299138"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossa página no Instagran é\nhttps://www.instagram.com/vegpet_oficial/?hl=pt-br"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#instragran",
+      "dialog_node": "node_3_1625165391926",
+      "previous_sibling": "node_5_1625165511099"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nosso suplemento Neem Pet é sem conservantes, corantes, transgênicos, sem glúten.\nEle trabalha limpando o sangue, cuida do sistema gastrointestinal, reduz problemas bucais, apoia o sistema imunológico, atua como um poderoso antioxidante. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#suplemento_alimentar",
+      "dialog_node": "node_3_1625165802806",
+      "previous_sibling": "node_9_1625166783399"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A diferença é que a Fridog é vegetariana, pois contém vitamina D3, proveniente da lã de ovelhas, já a Bicho Green é vegana, pois a vitamina D2 é sintetizada"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#diferença_brichog_fri",
+      "dialog_node": "node_3_1626220511134",
+      "previous_sibling": "node_5_1626220446871"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Somos uma empresa com produtos Vegetarianos e Veganos para Pets.\nNossos alimentos são 100% vegetais, cruelty free. (não testados em animais)."
+              },
+              {
+                "text": "\n"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#atividade",
+      "dialog_node": "node_4_1622754427691",
+      "previous_sibling": "node_3_1622755111102"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              },
+              {
+                "text": "Sim, existem estudos que comprovam os benefícios da alimentação vegana.\n\nTem o estudo, na Universidade de Viena, pela veterinária Pia-Gloria Semp.\nE também da Flávia Saad, doutora em Ciência Animal pela UFMG e professora de nutrição animal da UFLA. \n\nAmbos estudos, concluem que é plenamente possível, alimentar animais domésticos, sem nada de origem animal, com uma ração balanceada corretamente, que os pets não apresentaram anormalidades relacionadas à alimentação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#estudos",
+      "dialog_node": "node_4_1622809241083",
+      "previous_sibling": "node_10_1622810206936"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              },
+              {
+                "text": "Nossa sugestão de adaptação é:  misturar aos poucos nosso produto com a alimentação anterior até zerar a anterior ficando somente a VegPet.\n \nTemos Vídeos para auxiliar.\nPara Gatinhos. https://www.youtube.com/watch?v=WNUIgZFfVgg\nPara Cachorro. https://www.youtube.com/watch?v=-x1F1m8Z-MA"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#adaptação",
+      "dialog_node": "node_4_1622810512856",
+      "previous_sibling": "node_6_1622811062568"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Caso compre a ração e seu pet não se adapte, devolvemos 100% o valor do seu dinheiro, SEM NENHUMA BUROCRACIA!\nAcesse:\nhttps://www.vegpet.com.br/devolucoes/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#devolucao",
+      "dialog_node": "node_4_1622817497681",
+      "previous_sibling": "node_10_1622817619672"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Bicho Green",
+            "source": "https://i.imgur.com/dTnbVUV.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Elaborada para atender todas as raças, os grãos podem ser digeridos com facilidade por cães de pequeno, médio e grande porte\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Fri Dog",
+            "source": "https://i.imgur.com/F5QxidG.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#grao",
+      "dialog_node": "node_4_1623108077917",
+      "previous_sibling": "node_2_1623108214341"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Este é nosso canal no youtube.\nPor favor acesse. \nhttps://www.youtube.com/c/VegpetOficial/featured"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#youtube",
+      "dialog_node": "node_4_1626221438044",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Gostaria de convidar a conhecer nosso site e verificar os valores de nossos produtos bem como cupons e ofertas. \nAcesse:\n https://www.vegpet.com.br/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#custo",
+      "dialog_node": "node_5_1622812858501",
+      "previous_sibling": "node_4_1622817497681"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tanto seu gato quanto cachorro, não precisam de proteína animal, este é um grande mito que temos.\nO que de fato eles necessitam, são aminoácidos que podem ser obtidos de fontes vegetais e também sintetizados. Que é o que acontece com grande parte das rações existentes.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#proteina_vegetal_animal",
+      "dialog_node": "node_5_1624048883918",
+      "previous_sibling": "node_8_1624134759570"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nosso Kit álcool, contém 3 produtos.\nAlcat Pata 70.  Produto higienizador antisséptico para limpeza das patas de pets. Pode ser usado sem preocupações, uma vez que não possui a toxicidade do álcool gel, além de não agredir o olfato do animal.\nAlcat Casa 70. Indicado para limpeza dos acessórios de seu pet.\nAlcat Gel Tutores 70. Ideal para higienizar suas mãos.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#alcool",
+      "dialog_node": "node_5_1625157323334",
+      "previous_sibling": "node_9_1625157543227"
+    },
+    {
+      "type": "standard",
+      "parent": "node_9_1625157543227",
+      "context": {
+        "detalhe_banho": null
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "Bem-vindo"
+      },
+      "conditions": "$detalhe_banho != null",
+      "dialog_node": "node_5_1625157548747",
+      "previous_sibling": "response_4_1625158187869"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossa página no face book é\nhttps://www.facebook.com/vegpet/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#facebook",
+      "dialog_node": "node_5_1625165511099",
+      "previous_sibling": "node_5_1625165916876"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossas rações para cães e gatos são totalmente vegetais.\nPara cães ela não possui corantes ou antioxidantes artificiais, sendo feita totalmente com proteína vegetal. Leva ômega 3 e 6, vitaminas, pré e probióticos, milho, arroz quebrado, levedura, linhaça, beterraba, urucum e farinha de algas. \nJá a versão felina contém aminoácidos como taurina, metionina e lisina que são essenciais para esses animais e sintetizados a partir de proteínas vegetais, também não possui corantes ou antioxidantes.\nNos dois casos, farelos de trigo, soja e arroz substituem a quantidade de nutrientes encontrados nas versões tradicionais, feitas a partir de vísceras e  restos de carne.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#composição",
+      "dialog_node": "node_5_1625165916876",
+      "previous_sibling": "node_3_1625165802806"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nós não temos loja física, fazemos vendas em nossa loja online \nhttps://www.vegpet.com.br/onde-encontrar .\nE com nossos revendedores parceiros"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#loja_física",
+      "dialog_node": "node_5_1625166985924",
+      "previous_sibling": "node_7_1625167975490"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossa ração é totalmente natural, não contém corantes, porém ela não é indicada para filhotes e pets com problemas de saúde. Aconselhamos consultar um veterinário de confiança antes de dar. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#contraindicacao",
+      "dialog_node": "node_5_1626220446871",
+      "previous_sibling": "node_8_1626220411589"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossas formas de pagamento são: Cartão de Credito (Visa, Master Card, American Express, Diners Club, Elo, Hipercard, Boleto, Mercado Pago"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#pagamento",
+      "dialog_node": "node_6_1622811062568",
+      "previous_sibling": "node_7_1622811498061"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossa ração é indicada somente para cães e gatos adultos a partir de 1 ano de idade. Por enquanto não temos rações para filhotes, pois filhotes precisam de níveis diferentes de cálcio. \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#filhote",
+      "dialog_node": "node_6_1623107991411",
+      "previous_sibling": "node_4_1623108077917"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossa comida úmida é orgânica e vegetariana.\nSendo balanceada, para fornecer todos os nutrientes que o seu cão precisa. \nÉ ideal para cães adultos de todas as raças e tamanhos. Não contém corantes, conservantes ou transgênicos. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#sache_umida",
+      "dialog_node": "node_6_1625154628870",
+      "previous_sibling": "node_6_1625154772731"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossa areia é de fibra vegetal 100% natural, sem adição de corantes, aditivos e aglutinantes"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#areia_gato",
+      "dialog_node": "node_6_1625154772731",
+      "previous_sibling": "node_9_1625155992173"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Me desculpa, mais no momento só trabalhamos com petiscos para cachorros"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#petisco_gato",
+      "dialog_node": "node_6_1626220366739",
+      "previous_sibling": "node_8_1626220688590"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Como nós, os gatos e cães precisam consumir certos nutrientes, e não alguns alimentos específicos. Por essa razão, não é necessário que comam produtos de origem animal. Tanto os cachorros como os gatos podem se desenvolverem e se manterem nutridos com dietas veganas completas e razoavelmente equilibradas e também podem experimentar uma série de benefícios para a saúde, como a condição da pelagem melhorada, controle de alergia, controle de peso, aumento da saúde geral e da vitalidade, regressão da artrite, regressão do diabetes, resolução de catarata, e diminuição das incidências de câncer, infecções e hipotireoidismo.\nhttps://www.youtube.com/watch?v=8LjEwIjzWTw"
+              },
+              {
+                "text": "NÃO, ELES NÃO PRECISAM. EXISTE O MÍTO DA PROTEÍNA ANIMAL. CÃES E GATOS PRECISAM DOS AMINOÁCIDOS, OU SEJA, ELES RECEBEM A PROTEÍNA E TRANSFORMAM EM CADEIAS DE AMINOÁCIDOS.\nQUANDO VOCÊ ESCOLHE UMA RAÇÃO TRADICIONAL, VOCÊ NÃO ESTÁ FORNECENDO CARNES, MUITAS VEZES, SÃO FARINHAS DE PÉSSIMA QUALIDADE QUE ESTÃO NESSAS RAÇÕES DE MERCADO.\nOS AMINOÁCIDOS ESSENCIAIS PODEM SER OBTIDOS DE FONTES VEGETAIS, E TAMBÉM, SINTETIZADOS (COMO FEITO NA MAIOR PARTE DAS RAÇÕES EXISTENTES).\nhttps://www.youtube.com/watch?v=8LjEwIjzWTw"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#carnivoros",
+      "dialog_node": "node_7_1622808404576",
+      "previous_sibling": "node_9_1622808882385"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Espero ter ajudado. \nGostaria de mais alguma coisa?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#despedida",
+      "dialog_node": "node_7_1622811498061",
+      "previous_sibling": "node_8_1622811847579"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossa coleira é produzida com matéria-prima ecologicamente correta, sendo um repelente natural  para pulgas, carrapatos, mosquitos transmissores da leishmaniose e outros insetos. Também recomendamos que caso  o ambiente já esteja infestado por pulgas e carrapatos que seja feita uma limpeza local, pois o uso da Coleira Erva de Santa Maria pode não ter o efeito desejado, uma vez que ela não faz o controle da infestação no local."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#anti_pulga_coleira",
+      "dialog_node": "node_7_1624038653149",
+      "previous_sibling": "node_7_1624045839315"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No momento nossa ração orgânica All Love só está disponível para cachorros.\nEste produto é uma boa opção vegetariana e orgânica.\nLivre de transgenicos, sem sal adicionado, 100% natural. \nSem corantes ou conservantes artificiais."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#organica",
+      "dialog_node": "node_7_1624045839315",
+      "previous_sibling": "node_1_1624047060714"
+    },
+    {
+      "type": "frame",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#petisco_biscoito",
+      "dialog_node": "node_7_1625147935615",
+      "previous_sibling": "node_8_1624557526599"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossos produtos em média tem estes prazos de validade.\nRação úmida All Love: VALIDADE: 12 meses a partir da data de fabricação.\nPetisco All Love: VALIDADE: 9 meses a partir da data de fabricação.\nRação Seca All Love: VALIDADE: 12 meses a partir da data de fabricação.\n\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#prazo_validade",
+      "dialog_node": "node_7_1625167975490",
+      "previous_sibling": "node_3_1626220511134"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oi sou o VegBot : )    \nAssistente virtual da Vegpet.\nEstou aqui para auxiliar você neste ambiente de alimentos 100% vegetais de qualidade premium e cruelty free (não testados em animais)\nComo posso ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#saudacao",
+      "dialog_node": "node_8_1622751634638",
+      "previous_sibling": "node_4_1622754427691"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Além de rações secas também temos: produtos de higiene, tratamentos, brinquedos, acessórios e muito mais.\nGostaria de convidar a conhecer nosso site e verificar nossos produtos bem como cupons e ofertas.\n\n https://www.vegpet.com.br/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#portifolio",
+      "dialog_node": "node_8_1622811847579",
+      "previous_sibling": "node_8_1622812622367"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Você pode adquirir seu produto em nosso site ou com um de nossos parceiros.\nAcesse:\nhttps://www.vegpet.com.br/onde-encontrar/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#comprar",
+      "dialog_node": "node_8_1622812622367",
+      "previous_sibling": "node_1_1622812767448"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossos produtos, são direcionados para cachorros e gatos, para outros tipos de pet, por favor consultar o seu veterinário de confiança."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#que_tipo_pet",
+      "dialog_node": "node_8_1624048287221",
+      "previous_sibling": "node_5_1624048883918"
+    },
+    {
+      "type": "frame",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#detalhe_racao",
+      "dialog_node": "node_8_1624134759570",
+      "previous_sibling": "node_9_1624222036493"
+    },
+    {
+      "type": "frame",
+      "output": {
+        "text": {
+          "values": [
+            "Código de Rastreamento: $codigo_rastreamento"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#informar_detalhes_rastreamento",
+      "dialog_node": "node_8_1624557526599",
+      "previous_sibling": "node_6_1625154628870"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Me desculpa, mais no momento só trabalhamos com comida úmida para cachorros"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#comida_umida_gato",
+      "dialog_node": "node_8_1626220411589",
+      "previous_sibling": "node_6_1626220366739"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossa ração é totalmente natural, o que ajuda a não causar manchas no pelo do pet. Ela não contém corantes, além de só possuir conservantes naturais."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#mancha_seu_pelo",
+      "dialog_node": "node_8_1626220688590",
+      "previous_sibling": "node_4_1626221438044"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O benefício da ração vegana, é grande, pois é totalmente livre de produtos de origem animal e também auxilia o meio ambiente, pois a criações de animais representam 15,5% das emissões de CO2 no planeta. Sendo o setor um dos mais poluentes. Além disso, contém produtos naturais compostos por nutrientes, aminoácidos, proteínas e vitaminas capazes de nutrir 100% das necessidades do seu pet."
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#beneficios",
+      "dialog_node": "node_9_1622808882385",
+      "previous_sibling": "node_4_1622809241083"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Modo de conservação: Conservar o produto em local fresco, ventilado, livre de umidade, afastado de paredes e ao abrigo da luz solar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#armazenamento",
+      "dialog_node": "node_9_1623108303370",
+      "previous_sibling": "node_9_1624035992380"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Temos opções de tratamentos homeopáticos, que podem ser aplicados em nossos pets.\nO objetivo é diminuir o uso de medicamentos alopáticos, sendo que a homeopatia animal, pode atuar em várias causas, desde alergias, problemas articulares, comportamentais, recuperações pós-cirúrgicas, entre outros.\nConsulte:\nhttps://www.vegpet.com.br/tratamento/homeopatia-animal/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#tratamentos_medicacao",
+      "dialog_node": "node_9_1624035992380",
+      "previous_sibling": "node_7_1624038653149"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bicho Green é uma ração Super Premiun. 100% vegetal e balanceada. \nEla é tanto vegana como vegetariana.\nE tem nas opções: para gatos e cachorro. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#comida_gato",
+      "dialog_node": "node_9_1624222036493",
+      "previous_sibling": "node_7_1625147935615"
+    },
+    {
+      "type": "standard",
+      "parent": "node_7_1625147935615",
+      "context": {
+        "petisco": null
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "Bem-vindo"
+      },
+      "conditions": "$petisco != null",
+      "dialog_node": "node_9_1625149400534"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nosso querido produto de limpeza, higieniza e neutraliza odores, sem usar produtos químicos agressivos.\nPode ser usado livremente, em superfícies e pisos, tanto da sua casa como no canil ou outros ambientes. E até para limpar objetos e brinquedos dos pets.\nPRODUTO VEGANO. PRODUZIDO SEM USO DE AGROTÓXICOS!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#produto_limpeza",
+      "dialog_node": "node_9_1625155992173",
+      "previous_sibling": "node_9_1625156980021"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossos saquinhos, cata caca são as biobags, feitas de plástico 100% biodegradável. Que levam até 18 meses para se decompor na natureza, degradando-se em qualquer situação, desde que em contato com o oxigênio. \nAlém disso, são recicláveis e não contaminam os processos de reciclagem, como as sacolinhas comuns."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#cata_caca",
+      "dialog_node": "node_9_1625156980021",
+      "previous_sibling": "node_5_1625157323334"
+    },
+    {
+      "type": "frame",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#shampoo_condicionador",
+      "dialog_node": "node_9_1625157543227",
+      "previous_sibling": "node_3_1625165391926"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Se seu pet tem problemas de saúde, por favor consulte um veterinário de confiança, pois nossa ração não é medicamentosa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#medicamentosa",
+      "dialog_node": "node_9_1625166783399",
+      "previous_sibling": "node_5_1625166985924"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Krócão é um biscoito para cachorro integral e vegano.  Ele tem opção para raças grandes e pequenas formato palitos ou biscoito Não contém conservantes e corantes artificiais"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1625147935615",
+      "conditions": "@petisco:(krocao)",
+      "dialog_node": "response_10_1625148783224",
+      "previous_sibling": "response_7_1625148714062"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "$webhook_result_1.mensagem"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1624557526599",
+      "disabled": true,
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_1_1624563902886",
+      "previous_sibling": "handler_2_1625135454751"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "source": "https://i.imgur.com/B1cF9Ir.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Fri Dog é uma ração elaborada com proteína vegetal de  qualidade High Premium desenvolvida exclusivamente para cachorros e contém Vitamina D3 proveniente de lã de ovelhas. Para uma alternativa Vegana e 100% vegetal conheça a Bicho Green"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1624134759570",
+      "conditions": "@racao:(Fri Dog)",
+      "dialog_node": "response_2_1624199214817",
+      "previous_sibling": "handler_9_1625078039648"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "source": "https://i.imgur.com/wZsEBVO.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Bicho Green é uma ração Super Premiun 100% vegetal, completa e balanceada sendo saudável e funcional para seu CACHORRO e também na versão para GATOS. Ela pode ser considerada uma ração vegetariana, ou mesmo, vegana para seu pet! "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1624134759570",
+      "conditions": "@racao:(Bicho Green)",
+      "dialog_node": "response_3_1624220661931",
+      "previous_sibling": "response_8_1624199894917"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "O Shampoo Neem Pet é uma emulsão nutritiva, que presenteia seu animal com todas as propriedades antissépticas e curativas de Neem.  Ele trata a pele, revigora o pelo e ajuda a acalmar e a reduzir as coceirinhas e dermatite causadas por picadas de insetos, carrapatos e pulgas. PRODUTO VEGANO E PRODUZIDO SEM USO DE AGROTÓXICOS!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1625157543227",
+      "conditions": "@detalhe_banho:(Neen)",
+      "dialog_node": "response_3_1625157623141",
+      "previous_sibling": "slot_5_1625157623031"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A linha antiqueda da Pureza.Pet Shampoo e Condicionador possui ativos e extratos que agem na pele dos pets reduzindo a queda de pelos e também reduz em até 71% a quebra dos pelos na primeira aplicação; Biodegradável; Produto vegano; Livre de Sulfatos"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1625157543227",
+      "conditions": "@detalhe_banho:(Antiqueda)",
+      "dialog_node": "response_4_1625158154870",
+      "previous_sibling": "response_3_1625157623141"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A linha Nutrição da Pureza.Pet Shampoo e Condicionador possui em seu ativo premium os principais aminoácidos para fortalecer a pelagem dos pets. Diminui a porosidade dos pelos, repara os danos e devolve brilho, elasticidade e maciez.     Ação imediata de regeneração e reestruturação; Biodegradável; Produto vegano; Livre de sulfatos. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1625157543227",
+      "conditions": "@detalhe_banho:(Normal)",
+      "dialog_node": "response_4_1625158187869",
+      "previous_sibling": "response_4_1625158154870"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nosso bifinho é um produto vegano, sem qualquer tipo de produto de origem animal; Não possui transgênico; Contém ômega 3 e 6; Menor adição de sódio"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1625147935615",
+      "conditions": "@petisco:(snack bifinho)",
+      "dialog_node": "response_7_1625148659937",
+      "previous_sibling": "response_8_1625148599861"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "All Love é nosso biscoito orgânico para cães, ele não contém corantes ou conservantes e são assados, sem agrotóxicos ou transgênicos, ou seja, saudável de verdade. São indicados para cães adultos ou filhotes de todas as raças e tamanhos."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1625147935615",
+      "conditions": "@petisco:(biscoito organico)",
+      "dialog_node": "response_7_1625148714062",
+      "previous_sibling": "response_7_1625148659937"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "source": "https://i.imgur.com/uY7H7pt.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "All Love foi o seu pedido ao  Dr. Stanley atendeu!! A primeira linha de Alimento Vegetariano para Cães 100% Completo e Orgânico Certificado, não possui transgênico. \nNo momento só temos opção orgânica para cachorros "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1624134759570",
+      "conditions": "@racao:(All Love)",
+      "dialog_node": "response_8_1624199894917",
+      "previous_sibling": "response_2_1624199214817"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "EcoBone é um ossinho vegetal que é mais seguro na mastigação, pois ele vai se quebrando conforme o animal o mastiga. Sua composição é vegetal feito somente com cereais ele contém produtos transgênicos "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1625147935615",
+      "conditions": "@petisco:(ecoBone)",
+      "dialog_node": "response_8_1625148599861",
+      "previous_sibling": "handler_4_1625149027391"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Me desculpa infelizmente não consegui consultar seu código :(      Por favor tente mais tarde :)"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1624557526599",
+      "disabled": true,
+      "conditions": "anything_else",
+      "dialog_node": "response_9_1624563903487",
+      "previous_sibling": "response_1_1624563902886"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_8_1624134759570",
+      "variable": "$racao",
+      "dialog_node": "slot_5_1624183957254",
+      "previous_sibling": "node_2_1624195011747"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_9_1625157543227",
+      "variable": "$detalhe_banho",
+      "dialog_node": "slot_5_1625157623031",
+      "previous_sibling": "handler_1_1625158011771"
+    },
+    {
+      "type": "slot",
+      "parent": "node_8_1624557526599",
+      "variable": "$codigo_rastreamento",
+      "dialog_node": "slot_8_1624557860268",
+      "previous_sibling": "node_2_1624562285546"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1625147935615",
+      "variable": "$petisco",
+      "dialog_node": "slot_8_1625148165646",
+      "previous_sibling": "response_10_1625148783224"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": false,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores"
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "VegBot V 2.0",
+  "language": "pt-br",
+  "description": " copy"
+}
